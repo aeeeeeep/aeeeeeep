@@ -5,7 +5,7 @@
 </p>
 
 - Skills: 💻CS / 📷Photography / 🍳Cooking
-- 🌱 I’m currently studying and researching ML sys and LLM prompts. 
+- 🌱 I’m currently studying and researching ML sys and MCP. 
 - 📧 How to reach me: aeeeeeep \AT proton\。me 
 - 😄 Pronouns: aep 
 
